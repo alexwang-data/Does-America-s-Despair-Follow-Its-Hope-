@@ -1,1 +1,18 @@
 # Does-America-s-Despair-Follow-Its-Hope-
+
+## 🕵️ Overview
+
+Using state-level data on lottery sales, sports betting handle, religious adherence, and deaths from overdose, alcohol, and suicide, this analysis tests whether “hope industries” cluster with deaths of despair. The findings show all three industries correlate negatively with despair rates, suggesting hope and suffering follow distinct American geographies.
+
+# 🧩 Research Design
+**Research Question**
+
+Do states with more lottery sales, more sport betting, and more churches also have more “deaths of despair” (suicide, overdose, alcohol-related deaths)?
+
+**Null Hypothesis (H₀)**
+
+Lottery sales, sports betting activity, and church density have no relationship with deaths of despair across U.S. states.
+
+**Alternative Hypothesis (H₁)**
+
+States with higher lottery sales, more sport betting, and more churches also have higher rates of deaths of despair.

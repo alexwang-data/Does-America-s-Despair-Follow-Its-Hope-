@@ -4,7 +4,8 @@
 
 Using state-level data on lottery sales, sports betting handle, religious adherence, and deaths from overdose, alcohol, and suicide, this analysis tests whether “hope industries” cluster with deaths of despair. The findings show all three industries correlate negatively with despair rates, suggesting hope and suffering follow distinct American geographies.
 
-# 🧩 Research Design
+## 🧩 Research Design
+
 **Research Question**
 
 Do states with more lottery sales, more sport betting, and more churches also have more “deaths of despair” (suicide, overdose, alcohol-related deaths)?
